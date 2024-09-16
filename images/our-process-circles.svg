@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="866" height="866" fill="none">
+  <circle cx="432.881" cy="118.881" r="117.37" stroke="#B9F4D8" stroke-width="1.021"/>
+  <circle cx="432.745" cy="745.969" r="117.37" stroke="#B9F4D8" stroke-width="1.021"/>
+  <circle cx="119.291" cy="432.513" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(-90 119.291 432.513)"/>
+  <circle cx="746.2" cy="432.513" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(-90 746.2 432.513)"/>
+  <circle cx="161.286" cy="275.786" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(-60 161.286 275.786)"/>
+  <circle cx="704.206" cy="589.24" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(-60 704.206 589.24)"/>
+  <circle cx="276.017" cy="703.973" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(-150 276.017 703.973)"/>
+  <circle cx="589.47" cy="161.055" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(-150 589.47 161.055)"/>
+  <circle cx="161.287" cy="589.24" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(-120 161.287 589.24)"/>
+  <circle cx="704.202" cy="275.787" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(-120 704.202 275.787)"/>
+  <circle cx="589.471" cy="703.975" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(150 589.471 703.975)"/>
+  <circle cx="276.016" cy="161.057" r="117.37" stroke="#B9F4D8" stroke-width="1.021" transform="rotate(150 276.016 161.057)"/>
+</svg>
